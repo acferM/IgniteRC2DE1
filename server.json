@@ -2,9 +2,9 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho",
+      "name": "Ao molho editado",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
+      "price": "29.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
@@ -21,8 +21,16 @@
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://avatars.githubusercontent.com/u/79462391?s=400&v=4",
+      "name": "Lara",
+      "price": "25,00",
+      "description": "Totoza",
+      "available": true,
+      "id": 4
     }
   ]
 }
